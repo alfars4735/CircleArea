@@ -1,0 +1,6 @@
+C:\Users\alfar\source\repos\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\alfar\source\repos\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\alfar\source\repos\CircleArea\obj\Debug\CircleArea.csprojAssemblyReference.cache
+C:\Users\alfar\source\repos\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\alfar\source\repos\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\alfar\source\repos\CircleArea\obj\Debug\CircleArea.pdb
